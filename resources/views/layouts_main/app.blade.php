@@ -50,7 +50,7 @@
                         <p>
                             Crafted with
                             <span class="text-danger"><i class="bi bi-heart"></i></span> by
-                            <a href="/">Velia</a>
+                            <a href="/">Me</a>
                         </p>
                     </div>
                 </div>
